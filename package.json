@@ -1,0 +1,15 @@
+{
+  "name": "03-proyecto",
+  "version": "1.0.0",
+  "description": "proyecto calculadora",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "john cerinza",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.1"
+  }
+}
